@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Zapatos Vintage",
+      "price": 49.99,
+      "description": "Bellos zapatos antiguos para Hipsters.",
+      "stars": 4.5,
+      "image": "https://i.ibb.co/4j85tBM/shoes.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Máquina de escribir",
+      "price": 109.99,
+      "description": "Bonita máquina de escribir antigua.",
+      "stars": 4.2,
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "stars": 4,
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gato Persa",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...no creo",
+      "stars": 3,
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jersey de lana",
+      "price": 59.99,
+      "description": "La lana pica pero es rosita",
+      "stars": 3.8,
+      "image": "https://twicpics.celine.com/product-prd/images/large/2AF73086U.24PI_1_SPR23.jpg?twic=v1/cover=1:1/resize-max=480"
+    },
+    {
+      "id": 10,
+      "name": "Taza de te",
+      "price": 13.49,
+      "description": "Parece una taza y es una taza",
+      "stars": 4.2,
+      "image": "https://res.cloudinary.com/lusini/w_1500,h_1500,q_80,c_pad,f_auto/pim/a5b03b/f2b451/201e14/b7c795/068acc/25/a5b03bf2b451201e14b7c795068acc25.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Girasoules",
+      "price": 25.49,
+      "description": "Jarrón no incluido en el precio",
+      "stars": 4.8,
+      "image": "https://cdn.shopify.com/s/files/1/0006/4602/1175/products/JarronGirasoles-01_345x345@2x.jpg?v=1601673274"
+    },
+    {
+      "id": 12,
+      "name": "Edredón",
+      "price": 129.99,
+      "description": "Aunque es un poco feito, se duerme calentito",
+      "stars": 3.2,
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sabanas-algodon-the-needo-1649762293.jpg?crop=0.316xw:0.316xh;0.675xw,0.340xh&resize=640:*"
+    }
+  ]
+}

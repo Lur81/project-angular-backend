@@ -1,0 +1,16 @@
+{
+  "name": "angular-shopeame-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.backup.json --port 3000",
+    "start2": "json-server --watch db.json --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.2"
+  }
+}
