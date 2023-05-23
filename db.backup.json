@@ -29,7 +29,7 @@
       "name": "Cuaderno de colores",
       "price": 7.25,
       "description": "Excelente cuaderno para que apuntes tus clases.",
-      "stars": 3.5,
+      "stars": "3.8",
       "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Maceta de diseño",
       "price": 9.99,
       "description": "Maceta de diseño a precio económico.",
-      "stars": 5,
+      "stars": "4.3",
       "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
     },
     {
@@ -79,6 +79,14 @@
       "description": "Aunque es un poco feito, se duerme calentito",
       "stars": 3.2,
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sabanas-algodon-the-needo-1649762293.jpg?crop=0.316xw:0.316xh;0.675xw,0.340xh&resize=640:*"
+    },
+    {
+      "id": 13,
+      "name": "Balon",
+      "price": "15.99",
+      "description": "redondito redondito",
+      "stars": "4.8",
+      "image": "https://images.nexusapp.co/assets/38/e7/37/411423388.jpg"
     }
   ]
 }
